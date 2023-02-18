@@ -4,6 +4,7 @@
 <form class="form-group" method="POST" action="{{action('AutoController@update', $auto->id)}}" enctype="multipart/form-data" >
     @method('PUT')
     @csrf
+    <a class="btn btn-primary" href="/autos">Volver atras</a>
 <div clas="form-group">
     <label for="">Marca:</label>
     <input type="text"  name="marca" value ="{{$auto->marca}}" class="form-control">
